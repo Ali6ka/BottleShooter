@@ -1,0 +1,123 @@
+fileFormatVersion: 2
+guid: 1b560428761043542a8b6a6a70ba7d59
+timeCreated: 1458546728
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Cylinder
+    100002: Cylinder_1
+    100004: //RootNode
+    100006: Lathe_NURBS
+    100008: Lathe_NURBS_1
+    100010: Lathe_NURBS_2
+    100012: Lathe_NURBS_3
+    100014: Lathe_NURBS_4
+    100016: Lathe_NURBS_5
+    100018: Lathe_NURBS_6
+    100020: Lathe_NURBS_7
+    400000: Cylinder
+    400002: Cylinder_1
+    400004: //RootNode
+    400006: Lathe_NURBS
+    400008: Lathe_NURBS_1
+    400010: Lathe_NURBS_2
+    400012: Lathe_NURBS_3
+    400014: Lathe_NURBS_4
+    400016: Lathe_NURBS_5
+    400018: Lathe_NURBS_6
+    400020: Lathe_NURBS_7
+    2300000: Cylinder
+    2300002: Cylinder_1
+    2300004: Lathe_NURBS
+    2300006: Lathe_NURBS_1
+    2300008: Lathe_NURBS_2
+    2300010: Lathe_NURBS_3
+    2300012: Lathe_NURBS_4
+    2300014: Lathe_NURBS_5
+    2300016: Lathe_NURBS_6
+    2300018: Lathe_NURBS_7
+    3300000: Cylinder
+    3300002: Cylinder_1
+    3300004: Lathe_NURBS
+    3300006: Lathe_NURBS_1
+    3300008: Lathe_NURBS_2
+    3300010: Lathe_NURBS_3
+    3300012: Lathe_NURBS_4
+    3300014: Lathe_NURBS_5
+    3300016: Lathe_NURBS_6
+    3300018: Lathe_NURBS_7
+    4300000: Cylinder
+    4300002: Cylinder_1
+    4300004: Lathe_NURBS
+    4300006: Lathe_NURBS_1
+    4300008: Lathe_NURBS_2
+    4300010: Lathe_NURBS_3
+    4300012: Lathe_NURBS_4
+    4300014: Lathe_NURBS_5
+    4300016: Lathe_NURBS_6
+    4300018: Lathe_NURBS_7
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

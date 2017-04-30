@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 2f8819bbb339a664fbcacfd432e69885
+timeCreated: 1457422569
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: bottle_cell
+    100002: bottle_cell_001
+    100004: bottle_cell_002
+    100006: bottle_cell_003
+    100008: bottle_cell_004
+    100010: bottle_cell_005
+    100012: bottle_cell_006
+    100014: bottle_cell_007
+    100016: bottle_cell_008
+    100018: bottle_cell_009
+    100020: bottle_cell_010
+    100022: bottle_cell_011
+    100024: bottle_cell_012
+    100026: bottle_cell_013
+    100028: bottle_cell_014
+    100030: bottle_cell_015
+    100032: bottle_cell_016
+    100034: bottle_cell_017
+    100036: bottle_cell_018
+    100038: bottle_cell_019
+    100040: //RootNode
+    100042: bottle
+    400000: bottle_cell
+    400002: bottle_cell_001
+    400004: bottle_cell_002
+    400006: bottle_cell_003
+    400008: bottle_cell_004
+    400010: bottle_cell_005
+    400012: bottle_cell_006
+    400014: bottle_cell_007
+    400016: bottle_cell_008
+    400018: bottle_cell_009
+    400020: bottle_cell_010
+    400022: bottle_cell_011
+    400024: bottle_cell_012
+    400026: bottle_cell_013
+    400028: bottle_cell_014
+    400030: bottle_cell_015
+    400032: bottle_cell_016
+    400034: bottle_cell_017
+    400036: bottle_cell_018
+    400038: bottle_cell_019
+    400040: //RootNode
+    400042: bottle
+    2300000: bottle_cell
+    2300002: bottle_cell_001
+    2300004: bottle_cell_002
+    2300006: bottle_cell_003
+    2300008: bottle_cell_004
+    2300010: bottle_cell_005
+    2300012: bottle_cell_006
+    2300014: bottle_cell_007
+    2300016: bottle_cell_008
+    2300018: bottle_cell_009
+    2300020: bottle_cell_010
+    2300022: bottle_cell_011
+    2300024: bottle_cell_012
+    2300026: bottle_cell_013
+    2300028: bottle_cell_014
+    2300030: bottle_cell_015
+    2300032: bottle_cell_016
+    2300034: bottle_cell_017
+    2300036: bottle_cell_018
+    2300038: bottle_cell_019
+    2300040: bottle
+    3300000: bottle_cell
+    3300002: bottle_cell_001
+    3300004: bottle_cell_002
+    3300006: bottle_cell_003
+    3300008: bottle_cell_004
+    3300010: bottle_cell_005
+    3300012: bottle_cell_006
+    3300014: bottle_cell_007
+    3300016: bottle_cell_008
+    3300018: bottle_cell_009
+    3300020: bottle_cell_010
+    3300022: bottle_cell_011
+    3300024: bottle_cell_012
+    3300026: bottle_cell_013
+    3300028: bottle_cell_014
+    3300030: bottle_cell_015
+    3300032: bottle_cell_016
+    3300034: bottle_cell_017
+    3300036: bottle_cell_018
+    3300038: bottle_cell_019
+    3300040: bottle
+    4300000: bottle_cell_019
+    4300002: bottle_cell_018
+    4300004: bottle_cell_017
+    4300006: bottle_cell_016
+    4300008: bottle_cell_015
+    4300010: bottle_cell_014
+    4300012: bottle_cell_013
+    4300014: bottle_cell_012
+    4300016: bottle_cell_011
+    4300018: bottle_cell_010
+    4300020: bottle_cell_009
+    4300022: bottle_cell_008
+    4300024: bottle_cell_007
+    4300026: bottle_cell_006
+    4300028: bottle_cell_005
+    4300030: bottle_cell_004
+    4300032: bottle_cell_003
+    4300034: bottle_cell_002
+    4300036: bottle_cell_001
+    4300038: bottle_cell
+    4300040: bottle
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
